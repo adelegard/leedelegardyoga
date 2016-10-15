@@ -1,0 +1,16 @@
+language: node_js
+node_js:
+  - '5'
+  - '4'
+deploy:
+  skip_cleanup: true
+  provider: script
+  script: ./scripts/deploy.sh
+  'on':
+    branch: master
+    node: '5'
+env:
+  global:
+    - secure: >-
+        cjwB2iN5WosPlyMoxL+UoO30I2iamw1ojOLAdPTRj1Dv+DjRszHFN6LAbWYG6JxyZaBMY2ckf/UXjx+8AX/0vl2pFFRQ7lx7b7A9hlDYKqikMADDqmC8/Z7Lqw+sUMIQVTX8oVP6Q1/tSwGXsRFGk5OUyK2XW8DuLC/D53iPDplDcgqruvecwJnR4QcfTvWORwzwCJyPR8VP1YCqGtS8jyYhkdAy/Hb1rBrX/50OAUaHkWIfOnObEZPu3JwKkcckgARgV5rbqrlQN/Bv7J69eqy3CegllMWU6sc6vXohCe4cargxrMAduoKHfC7ZSpwmSET/co4I6ksYTqVLz2QnRvHFB1tII0/1UyGDt+BmlAjN45N4py9yLM7yl+b51azDipc7EbDJwDhjTJVFUzDlfI3s+4Glh8oUiftfGaFTbmfcBmtZOPboHMdSpH7G9ASYzCRSHWwO4S4L+lMIGapUkr+Clk8XYphkl/5Q56DDHuO+ARoIjnp4WcP55TrEsOlMYsjTBU3oJlV85xqStci/b5EBoYhfsq0uUkVBwSqHStLhGcgB3gRjT5xHPAH5VJGNRHaQ0ay2YQ12toNCCrxSl/V4Ri6BLaW1/Op8/GJQ4UuAFbR4uL2ZdGF8iVVzo2IWiUUI+WyMuZkRhm6COzznPD/Zmx2bE34yp38bSbsZJEw=
+    - GIT_DEPLOY_REPO=https://9d81feb0137b732edeaf2a049ce347f7343c6995@github.com/adelegard/leedelegardyoga.git
