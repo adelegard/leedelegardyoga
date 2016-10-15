@@ -3,7 +3,7 @@
   "name": "leedelegardyoga",
   "homepage": "http://leedelegardyoga.com",
   "twitter": "",
-  "deployRepository": "https://github.com/adelegard/leedelegardyogasite",
+  "repository": "https://github.com/adelegard/leedelegardyoga",
   "scripts": {
     "lint:js": "eslint --ignore-path .gitignore --fix .",
     "lint:css": "stylelint \"src/**/*.css\"",
