@@ -13,4 +13,4 @@ env:
     - secure: >-
         5nhfhadREVLvnfU3VTJR9zTpYO8myETKiMhq1HnBI4KaVckY4sSzaERB0RnW2G+KXtuW4lhs5dPEpw1688aBq+h0lQ154XzJm9tLCBm/9GFhruXnBnwZqSrKt/fz5ihp7DyVoLsriVIWse7KbHFJ/AcX7RyJ9JOIQOYyxnohKcIHs5ONS7t5FEcNl8JGqV8y9W9f5oo01JfI7BwjPc9lUaXvDY0kpkPTmKO7kRNcHzaUDc2Y+Oi1HX3HcSzU7w2dTpxI7tjApzuTaAL9hj9spLt3qQl8nSvAe386jNuTnk6x1XU/xlE+IAQNbf4sGSjoNMZajgs+iy+ByrXyg4IpUGzqMVjpmVvU/otEXuYT7InmTdgxT30q7A7NUQOvesxpEJyQuZDAnC8vQfRFIBtU6tM93TUQUA8B1xFWEMq+GWpNC6RNcQAhnIneIXhAoMRCqmeQfRk6kU6adMuhsxh9Q5OTwYgVivyFFHIsXA0EwJdtZK7VlVG5fC/xkJuxm03i84gz6yj/dYHSIW4UPJJpyZeAlvuN8E81PmEHYdJTjttYFwyCXLYtCAg6I/Dg1fe7tOKbAHP4hJgbj1qx6wAGvFqonqU1b5vlr8JuTopNZ4rnecO2cwyffjUHSikaUkg0mgRdrWgMflGktwYnig2F6OXy25M18wJWQUZCbj6mJYE=
     # UPDATE YOU/YOUR_REPO IN THE URL BELOW
-    - GIT_DEPLOY_REPO=https://$GITHUB_TOKEN@github.com/adelegard/leedelegardyoga.git
+    - GIT_DEPLOY_REPO=https://$GITHUB_TOKEN@github.com/adelegard/leedelegardyogasite.git
