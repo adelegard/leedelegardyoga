@@ -42,7 +42,9 @@ const Page = (
   ]
 
   // hacky - but whatever
-  document.body.style.backgroundColor = `#${head.backgroundcolor}`
+  if (typeof window !== "undefined") {
+    window.document.body.style.backgroundColor = `#${head.backgroundcolor}`
+  }
 
   return (
     <div className={ styles.page }>
