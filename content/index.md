@@ -1,6 +1,7 @@
 ---
 title: Lee Delegard Yoga
 layout: Homepage
+backgroundcolor: FFF
 ---
 
 <img class="half-width" src="../assets/leedawnsunset-1-960.jpg" />

@@ -1,6 +1,7 @@
 ---
 title: Private Sessions
 layout: Homepage
+backgroundcolor: BAF5F9
 ---
 
 Email me for private session info and availability

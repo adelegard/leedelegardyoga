@@ -2,17 +2,12 @@
   --nav-item-padding: 0.5rem;
 }
 
-.header {
-  color: var(--mainColorContrasted);
-  background: var(--mainColor);
-}
-
 .nav {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   max-width: calc(60rem + (var(--nav-item-padding) * 2));
-  margin: 0 auto;
+  margin: 10px auto 0;
   padding: 0;
   line-height: 3rem;
 }
@@ -29,6 +24,7 @@
   padding: 0 var(--nav-item-padding);
   color: inherit;
   text-decoration: none;
+  font-size: 20px;
 }
 
 .link svg {
@@ -38,4 +34,16 @@
   width: 1.5rem;
   height: 1.5rem;
   vertical-align: middle;
+}
+
+.link.mainLink {
+  font-size: 40px;
+}
+
+.activeAbout {
+  color: rgb(71, 214, 222);
+}
+
+.activePrivate {
+  color: rgb(249, 197, 134);
 }

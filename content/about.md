@@ -1,6 +1,7 @@
 ---
 title: About
 layout: Homepage
+backgroundcolor: FBE9C1
 ---
 
 I believe yoga can change your life. It changed mine. Testtttt

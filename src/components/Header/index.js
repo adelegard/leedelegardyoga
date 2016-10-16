@@ -6,17 +6,10 @@ import styles from "./index.css"
 const Header = () => (
 	<header className={ styles.header }>
 		<nav className={ styles.nav }>
-			<div className={ styles.navPart1 }>
-				<Link
-  className={ styles.link }
-  to="/"
-				>
-					{ "LEE DELEGARD" }
-				</Link>
-			</div>
 			<div className={ styles.navPart2 }>
 				<Link
   className={ styles.link }
+  activeClassName={ styles.activeAbout }
   to="/about"
 				>
 					{ "ABOUT" }
@@ -25,9 +18,18 @@ const Header = () => (
 			<div className={ styles.navPart2 }>
 				<Link
   className={ styles.link }
+  activeClassName={ styles.activePrivate }
   to="/private"
 				>
 					{ "PRIVATE SESSIONS" }
+				</Link>
+			</div>
+			<div className={ styles.navPart2 }>
+				<Link
+  className={ `${styles.link} ${styles.mainLink}` }
+  to="/"
+				>
+					{ "LEE DELEGARD" }
 				</Link>
 			</div>
 		</nav>

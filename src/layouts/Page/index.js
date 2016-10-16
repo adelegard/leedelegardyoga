@@ -41,6 +41,9 @@ const Page = (
     { name: "description", content: head.description },
   ]
 
+  // hacky - but whatever
+  document.body.style.backgroundColor = `#${head.backgroundcolor}`
+
   return (
     <div className={ styles.page }>
       <Helmet
