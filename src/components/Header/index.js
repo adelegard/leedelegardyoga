@@ -25,9 +25,9 @@ const Header = () => (
 			<div className={ styles.navPart2 }>
 				<Link
   className={ styles.link }
-  to="/contact"
+  to="/private"
 				>
-					{ "CONTACT" }
+					{ "PRIVATE SESSIONS" }
 				</Link>
 			</div>
 		</nav>

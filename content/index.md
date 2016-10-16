@@ -3,5 +3,6 @@ title: Lee Delegard Yoga
 layout: Homepage
 ---
 
-<img class="half-width" src="../assets/leedawnsunset-1.jpg" />
-<img class="half-width" src="../assets/room.jpg" />
+<img class="half-width" src="../assets/leedawnsunset-1-960.jpg" />
+<img class="half-width" src="../assets/room-960.jpg" />
+<img src="../assets/warrior3.gif" />
