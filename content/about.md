@@ -3,7 +3,7 @@ title: About
 layout: Homepage
 ---
 
-I believe yoga can change your life. It changed mine. Test.
+I believe yoga can change your life. It changed mine. Testtttt
 
 Physiology and emotional wellbeing are inextricably linked. Yoga lays our physical and mental health bare, you can’t hide anything from yourself on the mat. Daily habits like slouching over a computer screen or carrying your bag on your left shoulder, combine with chronic emotional states to create our internal landscapes of well (or unwell) being. 
 
