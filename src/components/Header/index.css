@@ -47,3 +47,10 @@
 .activePrivate {
   color: rgb(249, 197, 134);
 }
+
+@media (max-width: 600px) {
+  .link,
+  .link.mainLink {
+    font-size: 0.8rem;
+  }
+}

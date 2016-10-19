@@ -89,3 +89,14 @@ img {
   width: 50%;
   float: left;
 }
+
+@media (max-width: 600px) {
+  .half-width {
+    width: 100%;
+    float: none;
+  }
+
+  img {
+    padding: 0 0 8px;
+  }
+}
