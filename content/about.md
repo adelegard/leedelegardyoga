@@ -3,6 +3,41 @@ title: About
 layout: Homepage
 backgroundcolor: FBE9C1
 ---
+Whatever you are feeling 
+in your body or mind, 
+watch it. 
+
+Give it a color. 
+A weight. 
+An outline.
+
+Try to see the shape of what you don’t yet know. 
+
+And when you catch a glimpse 
+of that vulnerability, 
+that ignorance, 
+that invisible pattern or infinite spiral...
+
+when you catch a glimpse 
+of that unknown form,
+Don't be embarrassed, or look away. 
+
+Stare at it. 
+Witness. 
+
+Try to see the shape of what you don’t yet know. 
+
+And feel  that it is not you 
+and you are not it. 
+
+Breathe into that distance
+because in that space    between
+
+Everything is waiting for you.
+
+_____________________
+
+
 
 I believe yoga can change your life. It changed mine. 
 
