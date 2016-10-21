@@ -3,6 +3,7 @@ title: About
 layout: Homepage
 backgroundcolor: FBE9C1
 ---
+
 Whatever you are feeling 
 in your body or mind, 
 watch it. 
