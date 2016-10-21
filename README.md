@@ -10,3 +10,5 @@ Hi Lee. To edit a page:
 1. Click "Commit" button
 1. This will trigger a "build" of your website here: https://travis-ci.org/adelegard/leedelegardyoga/builds
 1. If the build passes (which it should, unless there is an error) then the changes should show up within a couple minutes on leedelegardyoga.com
+
+Test
