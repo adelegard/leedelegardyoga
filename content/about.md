@@ -8,16 +8,22 @@ Whatever you are feeling
 in your body or mind, 
 watch it. 
 
-Give it a color. 
+Give it a color.
+
 A weight. 
+
 An outline.
 
 Try to see the shape of what you don’t yet know. 
 
 And when you catch a glimpse 
+
 of that vulnerability, 
+
 that ignorance, 
+
 that invisible pattern or infinite spiral...
+
 
 when you catch a glimpse 
 of that unknown form,
