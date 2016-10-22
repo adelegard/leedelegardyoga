@@ -4,37 +4,37 @@ layout: Homepage
 backgroundcolor: FBE9C1
 ---
 
-Whatever you are feeling 
-in your body or mind, 
+Whatever you are feeling<br>
+in your body or mind,<br> 
 watch it. 
 
-Give it a color.
-A weight. 
-An outline.
+Give it a color.<br>
+A weight.<br>
+An outline.<br>
 
 Try to see the shape of what you don’t yet know. 
 
-And when you catch a glimpse 
-of that vulnerability, 
-that ignorance, 
+And when you catch a glimpse<br>
+of that vulnerability,<br>
+that ignorance,<br>
 that invisible pattern or infinite spiral...
 
-when you catch a glimpse 
-of that unknown form,
-Don't be embarrassed, or look away. 
+when you catch a glimpse<br>
+of that unknown form,<br>
+Don't be embarrassed, or look away.<br>
 
-Stare at it. 
-Witness. 
+Stare at it.<br>
+Witness.<br> 
 
 Try to see the shape of what you don’t yet know. 
 
-And feel  that it is not you 
+And feel  that it is not you<br>
 and you are not it. 
 
-Breathe into that distance
+Breathe into that distance<br>
 because in that space    between
 
-Everything is waiting for you.
+Everything is waiting for you.<br>
 
 _____________________
 
