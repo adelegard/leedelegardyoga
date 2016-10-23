@@ -100,3 +100,13 @@ img {
     padding: 0 0 8px;
   }
 }
+
+.thick-blue-divider {
+  color: rgb(71, 214, 222);
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.small-font {
+  font-size: 12px;
+}

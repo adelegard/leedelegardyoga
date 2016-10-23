@@ -4,6 +4,8 @@ layout: Homepage
 backgroundcolor: FBE9C1
 ---
 
+<div class="small-font">
+
 Whatever you are feeling<br>
 in your body or mind,<br> 
 watch it. 
@@ -36,9 +38,10 @@ because in that space    between
 
 Everything is waiting for you.<br>
 
-_____________________
+</div>
+<div class="thick-blue-divider">__________</div>
 
-
+<br>
 
 I believe yoga can change your life. It changed mine. 
 
