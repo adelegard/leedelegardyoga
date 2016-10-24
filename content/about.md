@@ -22,10 +22,10 @@ that ignorance,<br>
 that invisible pattern or infinite spiral...
 
 when you catch a glimpse<br>
-of that unknown form,<br>
-Don't be embarrassed, or look away.<br>
-
+of that unknown form<br>
+don't be embarrassed or look away.
 Stare at it.<br>
+
 Witness.<br> 
 
 Try to see the shape of what you don’t yet know. 
