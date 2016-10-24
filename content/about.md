@@ -23,7 +23,7 @@ that invisible pattern or infinite spiral...
 
 when you catch a glimpse<br>
 of that unknown form<br>
-don't be embarrassed or look away.
+don't be embarrassed or look away.<br>
 Stare at it.<br>
 
 Witness.<br> 
