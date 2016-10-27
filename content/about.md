@@ -1,5 +1,5 @@
 ---
-title: About
+title: Lee Delegard Yoga
 layout: Homepage
 backgroundcolor: FBE9C1
 ---

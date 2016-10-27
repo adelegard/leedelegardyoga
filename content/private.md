@@ -1,5 +1,5 @@
 ---
-title: Private Sessions
+title: Lee Delegard Yoga
 layout: Homepage
 backgroundcolor: BAF5F9
 ---
