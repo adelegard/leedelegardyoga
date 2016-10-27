@@ -28,9 +28,9 @@ Stare at it.<br>
 
 Witness.<br> 
 
-Try to see the shape of what you don’t yet know. 
+Try to see the shape of what you don’t yet know.<br>
 And feel  that it is not you<br>
-and you are not it. 
+and you are not it.<br> 
 Breathe into that distance<br>
 because in that space    between
 
