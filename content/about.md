@@ -19,7 +19,7 @@ Try to see the shape of what you don’t yet know.
 And when you catch a glimpse<br>
 of that vulnerability,<br>
 that ignorance,<br>
-that invisible pattern or infinite spiral...
+that invisible pattern or infinite spiral...<br>
 when you catch a glimpse<br>
 of that unknown form<br>
 don't be embarrassed or look away.<br>
