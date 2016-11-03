@@ -32,7 +32,7 @@ Try to see the shape of what you don’t yet know.<br>
 And feel  that it is not you<br>
 and you are not it.<br> 
 Breathe into that distance<br>
-because in that space    between
+because in that space    between<br>
 
 Everything<br>
 is waiting for you.<br>
