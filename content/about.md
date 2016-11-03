@@ -20,7 +20,6 @@ And when you catch a glimpse<br>
 of that vulnerability,<br>
 that ignorance,<br>
 that invisible pattern or infinite spiral...
-
 when you catch a glimpse<br>
 of that unknown form<br>
 don't be embarrassed or look away.<br>
@@ -35,7 +34,8 @@ and you are not it.<br>
 Breathe into that distance<br>
 because in that space    between
 
-Everything is waiting for you.<br>
+Everything<br>
+is waiting for you.<br>
 
 </div>
 <div class="thick-blue-divider">__________</div>
