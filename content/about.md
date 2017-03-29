@@ -5,9 +5,6 @@ backgroundcolor: FBE9C1
 ---
 
 <div class="small-font">
-
-
-
 </div>
 <div class="thick-blue-divider">__________</div>
 
