@@ -14,4 +14,4 @@ Yoga lays our physical and mental health bare, you can’t hide anything from yo
 
 Yoga is a tool, a Practice of self study through which to illuminate our hidden patterns and default tendencies, and to cultivate the resources necessary to change them.
 
-I earned my 200-hour yoga teacher training from Kula Yoga in NYC and currently study Iyengar Yoga with Nikki Costello.  I am grateful to all my teachers, wise women who have taught me to be ceaselessly curious and to trust the Path.
+I earned my 200-hour yoga teacher training from Kula Yoga in NYC and currently study Iyengar Yoga with Nikki Costello.  I am grateful to all my teachers, wise women who have taught me to be ceaselessly curious and to trust the path.
